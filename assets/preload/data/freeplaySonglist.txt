@@ -1,0 +1,4 @@
+Bliss:vincent:1
+Happiness:vincent:1
+Pain:twin:1
+Relief:vincent:1
